@@ -13,11 +13,11 @@
 #Include graphics.ahk
 #Include HTTPRequest.ahk
 #Include io.ahk
+#Include *i privateFunctions.ahk
 #Include *i privateVariables.ahk
 #Include runCommands.ahk
 #Include selector.ahk
 #Include selectorActions.ahk
-#Include *i selectorActionsPrivate.ahk
 #Include selectorRow.ahk
 #Include string.ahk
 #Include tableList.ahk
